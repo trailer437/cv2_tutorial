@@ -1,0 +1,2 @@
+hsv = np.array[lower_color, upper_color]
+type(hsv)
